@@ -10,4 +10,8 @@ public class test {
 
         System.out.println("Sepete ekleme tamamlandi");
     }
+
+    public static void sepettenSil(){
+        System.out.println("Sepetten sil bölümü eklendi...");
+    }
 }
